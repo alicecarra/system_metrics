@@ -1,0 +1,8 @@
+[package]
+name = "system_metrics"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alice Carra", "aalicecarra@gmail.com>"]
+repository = "https://github.com/alicecarra/system_metrics"
+
+[dependencies]
